@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📝 I regularly write articles on [https://medium.com/@bayefekan1](https://medium.com/@bayefekan1)
+- 📝 I regularly write articles
 
 - 💬 Ask me about **.Net Core**
 
-- 📫 How to reach me **bayefekan@gmail.com**
+- 📫 How to reach me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
