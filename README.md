@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif))](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)]
 <h1 align="center">Hi 👋, I'm Efekan Bay</h1>
 <h3 align="center">Full-Stack .Net Core Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
